@@ -1,31 +1,15 @@
-## This can be your internal website page / project page
+## Titan Lander
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+This was my Baccalaureate research project in which I designed a mission to send and land a small helicopter probe on the surface of Titan, one of Saturn's moon. The mission consisted of two main parts
 
-### 1. Suggest hypotheses about the causes of observed phenomena
+### Titan Lander probe
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+This small vehicle has the capability of autonomous flight in Titan's (and earth's) atmosphere. 3d printing was used to manufacture the most complex parts
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+<img src="images/titan_lander.jpg"/>
 
-### 2. Assess assumptions on which statistical inference will be based
+### Hybrid rocket engine technology demonstrator
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+A small hybrid rocket engine was built and tested as a scale demonstrator of an interplanetary rocket stage
 
-### 3. Support the selection of appropriate statistical tools and techniques
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/hybrid_engine.jpg"/>
