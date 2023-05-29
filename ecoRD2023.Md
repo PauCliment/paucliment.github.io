@@ -12,7 +12,7 @@ This vehicle marks the team's 15th year building racecars, which was deserving o
 <div style="text-align:center">
 <img width = "350" src="images/car_smoke.jpg"/>
 </div>
-<br>
+<br/>
 
 ---
 
@@ -30,4 +30,4 @@ I made significant enhancements to the car's lateral controller, incorporating a
 <div style="text-align:center">
 <img width = "350" src="images/minicar.gif"/>
 </div>
-</br>
+<br/>

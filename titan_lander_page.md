@@ -14,7 +14,7 @@ This small vehicle has the capability of autonomous flight in Titan's (and earth
 <img height = "250" src="images/Lander_Disassembled.jpg"/>
 <img height = "250" src="images/lander_profile.jpg"/>
 </div>
-<br>
+<br/>
 
 ---
 

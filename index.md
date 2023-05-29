@@ -4,27 +4,27 @@
 
 [Autonomous racing vehicle ecoRD 2023](/ecoRD2023)
 <div style="text-align:center">
-<img width = "325" src="images/car_smoke.jpg?raw=true"/>
+<img src="images/car_smoke.jpg?raw=true"/>
 </div>
 
 ---
 
 [Hybrid rocket design](/hybrid_engine)
 <div style="text-align:center">
-<img width = "325" src="images/hybrid_see_through.png"/>
+<img src="images/hybrid_see_through.png"/>
 </div>
 
 ---
 [Simulation of Ground Effect Vehicle using OpenFoam](/CFD_project)
 <div style="text-align:center">
-<img  width = "325" src="images/cfd_thumbnail.png"/>
+<img  src="images/cfd_thumbnail.png"/>
 </div>
 
 ---
 [Titan lander](/titan_lander_page)
 <div style="text-align:center">
-<img width = "170" src="images/render_lander.jpg?raw=true"/>
-<img width = "140" src="images/Lander_Disassembled.jpg?raw=true"/>
+<img width = "310" src="images/render_lander.jpg?raw=true"/>
+<img width = "240" src="images/Lander_Disassembled.jpg?raw=true"/>
 </div>
 
 ---

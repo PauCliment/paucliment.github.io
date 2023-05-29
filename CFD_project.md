@@ -4,7 +4,7 @@ A friend and I teamed up to analyze an interesting vehicle which flies above the
 <div style="text-align:center">
 <img width = "250" src="images/gev_skim.jpg"/>
 </div>
-</br>
+<br/>
 
 ---
 
@@ -14,7 +14,7 @@ We managed to obtain really interesting results, both in stationary regime, but 
 <img width = "350" src="images/p0.png"/>
 <img width = "350" src="images/p3.png"/>
 </div>
-</br>
+<br/>
 
 ---
 
@@ -23,4 +23,4 @@ In this case, the structured mesh we created, ensured that fine details in the t
 <div style="text-align:center">
 <img width = "350" src="images/u4.png"/>
 </div>
-</br>
+<br/>
