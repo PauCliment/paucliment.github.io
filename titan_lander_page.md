@@ -8,7 +8,7 @@ This was my Baccalaureate research project in which I designed a mission to send
 
 This small vehicle has the capability of autonomous flight in Titan's (and earth's) atmosphere. 3d printing was used to manufacture the most complex parts.
 <div style="text-align:center">
-<img width = "200" src="images/render_lander.jpg"/>
+<img width = "400" src="images/render_lander.jpg"/>
 </div>
 <div style="text-align:center">
 <img height = "250" src="images/Lander_Disassembled.jpg"/>
@@ -22,7 +22,7 @@ This small vehicle has the capability of autonomous flight in Titan's (and earth
 
 A small hybrid rocket engine was built and tested as a scale demonstrator of an interplanetary rocket stage.
 <div style="text-align:center">
-<img width = "150" src="images/render_engine.jpg"/>
+<img width = "200" src="images/render_engine.jpg"/>
 </div>
 <div style="text-align:center">
 <img height = "200" src="images/engine_layout.png"/>

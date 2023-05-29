@@ -11,8 +11,8 @@ A friend and I teamed up to analyze an interesting vehicle which flies above the
 ### Pressure field
 We managed to obtain really interesting results, both in stationary regime, but also interactions between the wings in transitory regime.
 <div style="text-align:center">
-<img width = "350" src="images/p0.png"/>
-<img width = "350" src="images/p3.png"/>
+<img src="images/p0.png"/>
+<img src="images/p3.png"/>
 </div>
 <br/>
 
@@ -21,6 +21,6 @@ We managed to obtain really interesting results, both in stationary regime, but 
 ### Velocity field
 In this case, the structured mesh we created, ensured that fine details in the turbulence and in the interactions between the wings appeared in transitory regimes.
 <div style="text-align:center">
-<img width = "350" src="images/u4.png"/>
+<img src="images/u4.png"/>
 </div>
 <br/>

@@ -10,7 +10,7 @@ For a class project with no limitations, we designed a rocket for the EUROC chal
 ### Flight simulation
 The first step in the design process was to create a simulation tool to quickly iterate until we had a design that fulfilled the mission specifications
 <div style="text-align:center">
-<img width = "600" src="images/flight_data.png"/>
+<img src="images/flight_data.png"/>
 </div>
 <br/>
 
@@ -24,7 +24,7 @@ The design of the engine itself was done taking into account the chemistry of th
 <br/>
 The method of characteristics was used to design the nozzle
 <div style="text-align:center">
-<img width = "600" src="images/MOC_nozzle.png"/>
+<img src="images/MOC_nozzle.png"/>
 </div>
 <br/>
 
