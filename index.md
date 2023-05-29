@@ -8,6 +8,13 @@
 </div>
 
 ---
+
+[Hybrid rocket design](/hybrid_engine)
+<div style="text-align:center">
+<img width = "325" src="images/hybrid_see_through.png"/>
+</div>
+
+---
 [Simulation of Ground Effect Vehicle using OpenFoam](/CFD_project)
 <div style="text-align:center">
 <img  width = "325" src="images/cfd_thumbnail.png"/>
