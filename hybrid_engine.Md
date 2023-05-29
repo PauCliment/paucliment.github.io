@@ -1,7 +1,7 @@
 ## Hybrid rocket engine for EUROC
 For a class project with no limitations, we designed a rocket for the EUROC challenge. I took on a significant role in designing the propulsion system and conducting flight simulations. This involved integrating various subjects from our class, including compressible fluid mechanics, structural engineering, and flight mechanics.
 <div style="text-align:center">
-<img height = "100" src="images/Diagram_Rocket.png"/>
+<img src="images/Diagram_Rocket.png"/>
 </div>
 <br/>
 

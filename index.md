@@ -15,7 +15,7 @@
 </div>
 
 ---
-[Simulation of Ground Effect Vehicle using OpenFoam](/CFD_project)
+[Ground Effect vehicle CFD analysis](/CFD_project)
 <div style="text-align:center">
 <img  src="images/cfd_thumbnail.png"/>
 </div>

@@ -1,15 +1,14 @@
 ## Ground Effect vehicle CFD analysis
-
-A friend and I teamed up to analyze an interesting vehicle which flies above the surface of water much faster than a boat, but more efficiently than a plane using the ground effect using CFD simulations with OpenFOAM.
+A friend and I collaborated on the analysis of a fascinating vehicle that utilizes the ground effect and two tandem wings to achieve faster speeds on the water's surface with greater efficiency than a boat or plane. To conduct our analysis, we utilized OpenFOAM for computational fluid dynamics (CFD).
 <div style="text-align:center">
-<img width = "250" src="images/gev_skim.jpg"/>
+<img src="images/gev_skim.jpg"/>
 </div>
 <br/>
 
 ---
 
 ### Pressure field
-We managed to obtain really interesting results, both in stationary regime, but also interactions between the wings in transitory regime.
+We obtained interesting results from our analysis, exploring both the stationary and transient regimes of the vehicle's wing interactions. These findings provided valuable insights into its performance and configuration.
 <div style="text-align:center">
 <img src="images/p0.png"/>
 <img src="images/p3.png"/>
@@ -19,7 +18,7 @@ We managed to obtain really interesting results, both in stationary regime, but 
 ---
 
 ### Velocity field
-In this case, the structured mesh we created, ensured that fine details in the turbulence and in the interactions between the wings appeared in transitory regimes.
+Our carefully crafted structured mesh facilitated the representation of intricate details in turbulence and wing interactions, particularly during transient regimes.
 <div style="text-align:center">
 <img src="images/u4.png"/>
 </div>
