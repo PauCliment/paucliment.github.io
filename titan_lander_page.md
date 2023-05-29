@@ -22,9 +22,9 @@ This small vehicle has the capability of autonomous flight in Titan's (and earth
 
 A small hybrid rocket engine was built and tested as a scale demonstrator of an interplanetary rocket stage.
 <div style="text-align:center">
-<img height = "200" src="images/render_engine.jpg"/>
-<img height = "200" src="images/engine_layout.png"/>
+<img width = "150" src="images/render_engine.jpg"/>
 </div>
 <div style="text-align:center">
-<img height = "250" src="images/fire_test.jpg"/>
+<img height = "200" src="images/engine_layout.png"/>
+<img height = "200" src="images/fire_test.jpg"/>
 </div>
