@@ -4,15 +4,15 @@
 
 ### Category Name 1 
 
-[Titan lander](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Single Neuron PID applied to AV speed control](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Simulation of Ground Effect Vehicle using OpenFoam](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Titan lander](/titan_lander_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
