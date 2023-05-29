@@ -23,8 +23,7 @@
 ---
 [Titan lander](/titan_lander_page)
 <div style="text-align:center">
-<img width = "310" src="images/render_lander.jpg?raw=true"/>
-<img width = "240" src="images/Lander_Disassembled.jpg?raw=true"/>
+<img src="images/render_lander.jpg?raw=true"/>
 </div>
 
 ---

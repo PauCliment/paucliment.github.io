@@ -19,7 +19,7 @@ The first step in the design process was to create a simulation tool to quickly 
 ### Engine design
 The design of the engine itself was done taking into account the chemistry of the combustion, the thermodynamics and fluid mechanics of the hot exhaust gases, the strength of the components, and how the manufacturing could be done.
 <div style="text-align:center">
-<img width = "600" src="images/rocket_exploded_view.png"/>
+<img width = "600" src="images/rocket_exploded_view.gif"/>
 </div>
 <br/>
 The method of characteristics was used to design the nozzle
