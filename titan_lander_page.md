@@ -6,8 +6,8 @@ This was my Baccalaureate research project in which I designed a mission to send
 
 A small hybrid rocket engine was built and tested as a scale demonstrator of an interplanetary rocket stage.
 
-<img src="images/Render.jpg"/>
-<img src="images/fire_test.jpeg"/>
+<img src="images/Render.npg"/ | 100>
+<img src="images/fire_test.jpg"/ | 100>
 
 ### Titan Lander probe
 
