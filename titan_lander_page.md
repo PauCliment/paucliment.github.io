@@ -6,12 +6,12 @@ This was my Baccalaureate research project in which I designed a mission to send
 
 A small hybrid rocket engine was built and tested as a scale demonstrator of an interplanetary rocket stage.
 
-<img src="images/Render.npg"/ | 100>
-<img src="images/fire_test.jpg"/ | 100>
+<img src="images/Render.npg"/>
+<img src="images/fire_test.jpg"/>
 
 ### Titan Lander probe
 
 This small vehicle has the capability of autonomous flight in Titan's (and earth's) atmosphere. 3d printing was used to manufacture the most complex parts.
 
-<img src="images/Lander_Disassembled.jpg"/ width="30%">
-<img src="images/lander_profile.jpg"/ width="40%">
+<img src="images/Lander_Disassembled.jpg"/>
+<img src="images/lander_profile.jpg"/>
