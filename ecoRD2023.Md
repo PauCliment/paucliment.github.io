@@ -1,6 +1,6 @@
 ## Autonomous racing vehicle for the 2023 season
 
-Introducing the 2023 UPC ecoRacing Formula Student car. As the head of the driverless department, I'm thrilled to highlight our notable advancements, the wollowing of which I played a key role in:
+Introducing the 2023 UPC ecoRacing Formula Student car. As the head of the driverless department, I'm thrilled to highlight our notable advancements, the following of which I played a key role in:
 - Enhanced sensor and camera suite for robust performance
 - Upgraded stable lateral control system
 - Implementation of Neuronal PID for optimized speed control
