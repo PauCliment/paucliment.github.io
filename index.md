@@ -2,7 +2,7 @@
 
 ---
 
-## [Regional Turboprop Airliner Aerodynamic Design](/projectsPlane)
+## [Regional Turboprop Airliner Design](/projectsPlane)
 <div style="text-align:center">
 <img src="images/AP150_full.png?raw=true"/>
 </div>
