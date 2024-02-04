@@ -2,6 +2,13 @@
 
 ---
 
+## [Regional Turboprop Airliner Aerodynamic Design](/projectsPlane)
+<div style="text-align:center">
+<img src="images/AP150_full.png?raw=true"/>
+</div>
+
+---
+
 ## [Autonomous racing vehicle ecoRD 2023](/ecoRD2023)
 <div style="text-align:center">
 <img src="images/car_smoke.jpg?raw=true"/>

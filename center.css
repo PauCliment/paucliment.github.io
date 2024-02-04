@@ -3,7 +3,3 @@ img[alt*="center"] {
     margin-left: auto;
     margin-right: auto;
 }
-
-p {
-    text-align: justify;
-}
