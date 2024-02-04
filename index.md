@@ -1,27 +1,27 @@
-## Portfolio:
+# Portfolio:
 
 ---
 
-[Autonomous racing vehicle ecoRD 2023](/ecoRD2023)
+## [Autonomous racing vehicle ecoRD 2023](/ecoRD2023)
 <div style="text-align:center">
 <img src="images/car_smoke.jpg?raw=true"/>
 </div>
 
 ---
 
-[Hybrid rocket design](/hybrid_engine)
+## [Hybrid rocket design](/hybrid_engine)
 <div style="text-align:center">
 <img src="images/hybrid_see_through.png"/>
 </div>
 
 ---
-[Ground Effect vehicle CFD analysis](/CFD_project)
+## [Ground Effect vehicle CFD analysis](/CFD_project)
 <div style="text-align:center">
 <img  src="images/cfd_thumbnail.png"/>
 </div>
 
 ---
-[Titan lander](/titan_lander_page)
+## [Titan lander](/titan_lander_page)
 <div style="text-align:center">
 <img src="images/render_lander.jpg?raw=true"/>
 </div>
