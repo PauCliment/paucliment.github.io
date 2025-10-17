@@ -2,7 +2,7 @@
 
 ---
 
-## [UAV + Fly-by-wire design and build](/autonomousUAV)
+## [UAV with Fly-by-Wire design and build](/autonomousUAV)
 <div style="text-align:center">
 <img src="images/plane-scenery-cover.jpeg?raw=true"/>
 </div>
