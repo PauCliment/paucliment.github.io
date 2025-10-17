@@ -11,7 +11,7 @@ It had been too long already since I attempted to build something that flies so,
 <br/>
 
 <div style="text-align:justify;">
-While the initial goal was to make a simple plane, I ended up making a custom flight controller and writing the estimation and control code from scratch.
+While the initial goal was to make a simple plane, I ended up making a custom flight controller and writing the estimation and control code to use this plane as a test platform for satellite AOCS applications.
 </div>
 <br/>
 
@@ -34,12 +34,10 @@ The project started back in 2019, back when I used to build RC planes as a Hobby
 <div style="text-align:justify; margin-bottom: 20px;">
 Here, I designed a sufficiently complex wing, leveraging the use of 3D printing, to have a semi-monocoque-like wing, using 3D printed ribs to define the airfoil shape and carbon fiber spars to add torsional rigidity. The bending loads are mostly carried by the skin itself, using a box-like structure. For the fuselage and tail I went with simplest shape possible to make accomodating large electronics possible while making the assembly straight-forward.
 </div>
-<br/>
 
 <div style="text-align:center">
 <img src="images/hover_current.png"/>
 </div>
-<br/>
 
 <div style="text-align:justify; margin-bottom: 20px;">
 Lastly, I made an estimation of the weight and made an electromechanical model of the motor-propeller combination to estimate the current draw for sizing the motor controller and battery.
@@ -74,14 +72,7 @@ For anyone interested, a functional version of the flight controller code can be
 </div>
 
 ### Project takeaways
-<div style="text-align:justify; margin-bottom: 10px;">
-I'm extremely grateful to have undertaken and completed this project (which ended tragically on the 5th test flight). Thanks to it, I was able to:
-
-- Test the quaternion code I was already developing for my thesis
-- Sharpen my programming skills in embedded real-time aeronautical systems
-- Learn a lot about airframe design and construction at the UAV scale
-- Enjoy quality time building and testing this plane with loved ones
-</div>
+<section class="reflection" aria-describedby="benefits-list"> <p> I'm extremely grateful to have undertaken and completed this project (which ended tragically on the 5th test flight). Thanks to it, I was able to: </p> <ul id="benefits-list" class="benefits"> <li>Test the quaternion code I was already developing for my thesis.</li> <li>Sharpen my programming skills in embedded real-time aeronautical systems.</li> <li>Learn a great deal about airframe design and construction at the UAV scale.</li> <li>Enjoy quality time building and testing this plane with loved ones.</li> </ul> </section>
 <div style="text-align:center">
 <img src="images/cool-view-plane-flyby.jpeg"/>
 </div>
