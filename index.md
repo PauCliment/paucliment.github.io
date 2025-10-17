@@ -2,6 +2,13 @@
 
 ---
 
+## [UAV + Fly-by-wire design and build](/autonomousUAV)
+<div style="text-align:center">
+<img src="images/plane-scenery-cover.jpeg?raw=true"/>
+</div>
+
+---
+
 ## [Regional Turboprop Airliner Design](/projectsPlane)
 <div style="text-align:center">
 <img src="images/AP150_full.png?raw=true"/>
