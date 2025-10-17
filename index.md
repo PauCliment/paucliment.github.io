@@ -4,7 +4,7 @@
 
 ## [UAV with Fly-by-Wire design and build](/autonomousUAV)
 <div style="text-align:center">
-<img src="images/plane-scenery-cover.jpeg?raw=true"/>
+<img src="images/plane-scenery-cover.png?raw=true"/>
 </div>
 
 ---
